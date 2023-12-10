@@ -1,2 +1,4 @@
-.idea
-
+.idea/
+.sqlite3
+.vscode/
+.DS_Store/
